@@ -21,7 +21,7 @@ This repository houses some of my own tricks in the management of the Internatio
 > - Combinatorial logic of utilizing skills altogether.
 
 > Resources table of content: 
-> - Audio books.
-> - Music (Canadian - American).
-> - Oxford Handbooks.
+> - [Audio books.](https://librivox.org/)
+> - [Spotify (Podcasts - Music).](https://open.spotify.com/playlist/552c1kW36jqnezA1iFaiBb?si=1f06f87d7c2e427a)
+> - [Oxford Resources.](https://elt.oup.com/learning_resources/?cc=global&selLanguage=en)
 > - IELTS Books.
