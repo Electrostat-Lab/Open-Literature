@@ -10,8 +10,7 @@ Essentially, there are a lot of types of sentence phrases. One example is the in
   - Negative (e.g., `not...` - `negative` - `neither of... ... ...`).
   - Implicative (e.g., `Consequently,...` - `As a result of.../, ...` - `Sequentially, ...` - `Subsequently, ...` - `Eventually leading to ...` - `As an implication, ...` -  `As a consequence, ...`).
   - Combinations and enhancements (e.g., `neither of ... and ...` - `... and ... ... not` - `Subsequently, and as a result of ..., ....` - `Consequently, neither of ... ...`).
-  - Comparisons/Relational Predicates (types: contradictive - implicative - versus relationship - analogous relationship - ...).
-  - Equivalent predicate or modal logic.
+  - Comparisons/Relational Predicates (types: contradictive relations - implicative relations - transitive relations - versus relationship - symmetric relations - asymmetric relations - reflexive relations - equivalent relationship - analogous relations - ...).
 * Finalizing phrases.
   - Strong phrases (e.g., Eventually, ... - Finally, ...).
   - Weak phrases.
