@@ -5,12 +5,12 @@ Essentially, there are a lot of types of sentence phrases. One example is the in
 ## Table of content: 
 * Introductory phrases (e.g., `The following is ...` - `Essentially, ...`).
 * Connecting phrases.
-  - Conjunctive (e.g., `...and...` - `...together with...` - `... ...altogether` - `...including...`).
+  - Conjunctive (e.g., `...and...` - `With this ..., and with ..., ...` - `...together with...` - `... ...altogether` - `...including...`).
   - Disjunctive (e.g., `...or...` - `...instead of...` - `either...` - `excluding...` - `limited to...`).
   - Negative (e.g., `not...` - `negative` - `neither of... ... ...`).
-  - Implicative (e.g., `Consequently,...` - `As a result of.../, ...` - `Sequentially, ...` - `Eventually leading to ...` - `As an implication, ...` -  `As a consequence, ...`).
-  - Combinations (e.g., `neither of ... and ...` - `... and ... ... not` - `Consequently, neither of ... ...`).
-  - Comparisons/Relational Predicates (types: contradictive - versus relationship - analogous relationship - ...).
+  - Implicative (e.g., `Consequently,...` - `As a result of.../, ...` - `Sequentially, ...` - `Subsequently, ...` - `Eventually leading to ...` - `As an implication, ...` -  `As a consequence, ...`).
+  - Combinations and enhancements (e.g., `neither of ... and ...` - `... and ... ... not` - `Subsequently, and as a result of ..., ....` - `Consequently, neither of ... ...`).
+  - Comparisons/Relational Predicates (types: contradictive - implicative - versus relationship - analogous relationship - ...).
   - Equivalent predicate or modal logic.
 * Finalizing phrases.
   - Strong phrases (e.g., Eventually, ... - Finally, ...).
