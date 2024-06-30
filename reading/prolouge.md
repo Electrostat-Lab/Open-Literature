@@ -3,7 +3,7 @@
 > Notice that, this guide could be applied on any humanitarian processable language that concludes lexical resources, grammatical range, and sentences.
 
 ## Table of contents: 
-* Plan propositional statements principles.
+* Plain propositional statements principles.
 * Plain predicate logic principles.
 * Predicate logic in sentence deciphering.
 * Predicate logic in basic sentence building.
