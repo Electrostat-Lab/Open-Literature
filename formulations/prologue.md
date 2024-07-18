@@ -6,7 +6,7 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 * Introductory formulations (e.g., `The following is ...` - `Essentially, ...`).
 * Connecting formulations.
   - Conjunctive (e.g., `...and...` - `With this ..., and with ..., ...` - `...together with...` - `... ...altogether` - `...including...` - `not only [for] ... , but also ...` - `conclusive with ...` - `positively with ...`).
-  - Disjunctive (e.g., `...or...` - `...instead of...` - `either...` - `excluding...` - `limited to...` - `regardless of...`).
+  - Disjunctive (e.g., `...or...` - `...instead of...` - `either...` - `excluding...` - `limited to...` - `only` - `merely` - `regardless of...`).
   - Negative (e.g., `not...` - `negative` - `neither of... ... ...` - `inconclusive of ...` - `inconclusively ...`).
   - Implicative (e.g., `Consequently,...` - `As a result of.../, ...` - `Sequentially, ...` - `Subsequently, ...` - `Eventually leading to ...` - `As an implication, ...` -  `As a consequence, ...`).
   - Combinations and enhancements (e.g., `neither of ... and ...` - `... and ... ... not` - `Subsequently, and as a result of ..., ....` - `Consequently, neither of ... ...` - `Deterministically, ...`).
@@ -18,3 +18,35 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 * Focusing formulations (e.g., `Particularly ...`  - `Specifically, ...` - `In particular, ...`).
 * Conclusive/Closed formulations (e.g., `Conclusively, ...` - `In conclusion, ...`).
 * Inconclusive/Open formulations (e.g., `Inconclusively, ...` - `... came into inconclusion.`).
+
+## Preemptive Examples:
+* Conjunctive: 
+
+* Disjunctive:
+> From _"Aeroplanes and Dirgibles of War by F. A. Talbot"_:
+> At the end of 1913 the effective aerial fleet of Germany
+> comprised twenty large craft, so far in advance of the French
+> aerial cruisers as to be worthy of the name bestowed upon them--
+> "Aerial Dreadnoughts." This merely represented the fleet
+> available for immediate use and did not include the four gigantic
+> Suchard-Schutte craft, each of 847,500 cubic feet, which were
+> under construction, and which were being hurried forward to come into commission early in 1914.
+>
+> In this type of intricate sentence formulations, it's apparent that the _four gigantic Suchard-Shutte_ crafts are excluded from the total number of the effective German aerial fleet, which as a matter of fact, adds on that the German aerial fleet had deserved the name _"Aerial Dreadnoughts"_, in other words, _"The Titans of the Sky"_.
+> 
+
+* Negative: 
+
+* Implicative:
+
+* Combinations & Enhancements: 
+
+* Comparisons & Relational predicates: 
+
+* Finalizing formulations: 
+
+* Focusing/Scoping formulations:
+
+* Conclusive/Closed formulations:
+
+* Inconclusive/Open formulations:
