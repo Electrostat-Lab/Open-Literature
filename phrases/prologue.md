@@ -1,6 +1,6 @@
 # Prologue on formulations for writing and speaking
 
-Essentially, there are a lot of types of sentence formulations. One example is the introductory formulations, which introduces a sentence, or a preface for a chapter or a book. Another type is the connecting formulations , which essentially entail connecting two sentences together in a tight logic, and depending on the predicate logic, the final statement holds. Other types are not so common, but may be encountered, including, but not limited to, ending or finalizing statements.
+Essentially, there are a lot of types of sentence formulations. One example are the introductory formulations, which introduces a sentence, or a preface for a chapter or a book. Another type are the connecting formulations, which essentially entail connecting two sentences together in a tight logic, and depending on the predicate logic; the final statement holds. Other types are not so common, but may be encountered, including but not limited to, ending or finalizing formulations.
 
 ## Table of content: 
 * Introductory formulations (e.g., `The following is ...` - `Essentially, ...`).
