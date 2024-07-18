@@ -37,7 +37,7 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 
 > From the NASA TOPS program: Maintenance is a consideration regardless of whether your work was shared - you > need to decide how long to store your data and code for yourself in order to reproduce your work, should any questions arise even after publication.
 >
-> This formulation designates the _maintenance_ as an axiom that is mutually exclusive of (i.e., inconclusive of or apart from) the main premise _"Opening the work"_; indeed it's considered a disjunctive state (i.e., $Work > = Open \vee Maintenance$). In this case, the work could be open only without a decision or plan for maintenance or maintained without a plan for openness, or both premises could hold, in either way, a work is produced successfully.
+> This formulation designates the _maintenance_ as an axiom that is mutually exclusive of (i.e., inconclusive of or apart from) the main premise _"Opening the work"_; indeed it's considered a disjunctive state (i.e., $Work = Open \vee Maintenance$). In this case, the work could be open only without a decision or plan for maintenance or maintained without a plan for openness, or both premises could hold, in either way, a work is produced successfully.
 
 * Negative: 
 
