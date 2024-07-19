@@ -24,7 +24,7 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 > From _"Aeroplanes and Dirigibles of War by F. A. Talbot"_:
 > The Zeppelin workshops, harbouring facilities, and testing grounds at the latter point had undergone complete remodelling, while tools of the latest type had been provided to facilitate the rapid construction and overhaul of the monster Zeppelin dirigibles. Nothing had been left to chance; not an item was perfunctorily completed. The whole organisation was perfect, both in equipment and operation. Each of the above stations possessed provision for an aerial Dreadnought as well as one or more aerial cruisers, in addition to scouts or vedettes.
 >
-> In the preceding paragraph, the formulation is of an intricate inclusive type, or in other words, a complexity of the conjuctive formulations. It displays how the German aerial fleet is complete with regard to other rivals of the same level of complexity, as the completion results from this conjunctive formula: $Stations = Remodelling \land Zeppelin \land Equipment \land Operation \land Provisional_{Dreadnought}$
+> In the preceding paragraph, the formulation is of an intricate inclusive type, or in other words, a complexity of the conjuctive formulations. It displays how the German aerial fleet is complete with regard to other rivals of the same level of complexity, as the completion results from this conjunctive formula: $\forall(Stations) = Remodelling \land Zeppelin \land Equipment \land Operation \land Provisional_{Dreadnought}$
 
 * Disjunctive:
 > From _"Aeroplanes and Dirgibles of War by F. A. Talbot"_:
@@ -39,9 +39,9 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 > In this type of intricate sentence formulations, it's apparent that the _four gigantic Suchard-Shutte_ crafts are excluded from the total number of the effective German aerial fleet, which as a matter of fact, adds on that the German aerial fleet had deserved the name _"Aerial Dreadnoughts"_, in other words, _"The Titans of the Sky"_.
 > 
 
-> From the NASA TOPS program: Maintenance is a consideration regardless of whether your work was shared - you > need to decide how long to store your data and code for yourself in order to reproduce your work, should any questions arise even after publication.
+> From the NASA TOPS program: Maintenance is a consideration regardless of whether your work was shared - you need to decide how long to store your data and code for yourself in order to reproduce your work, should any questions arise even after publication.
 >
-> This formulation designates the _maintenance_ as an axiom that is mutually exclusive of (i.e., inconclusive of or apart from) the main premise _"Opening the work"_; indeed it's considered a disjunctive state (i.e., $Work = Open \vee Maintenance$). In this case, the work could be open only without a decision or plan for maintenance or maintained without a plan for openness, or both premises could hold, in either way, a work is produced successfully.
+> This formulation designates the _maintenance_ as an axiom that is mutually exclusive of (i.e., inconclusive of or apart from) the main premise _"Opening the work"_; indeed it's considered a disjunctive state (i.e., $\exists(Work) = Open \vee Maintenance$). In this case, the work could be open only without a decision or plan for maintenance or maintained without a plan for openness, or both premises could hold, in either way, a work is produced successfully.
 
 * Negative: 
 
@@ -49,7 +49,7 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 > From _"Aeroplanes and Dirigibles of War by F. A. Talbot"_: Upon the outbreak of hostilities Germany's dirigible fleet was in a condition of complete preparedness, was better organised, and better equipped than that of any of her rivals. At the same time it constituted more of a paper than a fighting array for reasons which I will explain later. But there was another point which had escaped general observation. Standardisation of parts and the installation of the desired machinery had accomplished one greatly desired end--the construction of new craft had been accelerated. Before the war an interesting experiment was carried out to determine how speedily a vessel could be built. The result proved that a dirigible of the most powerful type could be completed within eight weeks and forthwith the various constructional establishments were brought into line so as to maintain this rate of building.
 >
 > The former formulation displays an implicative screenplay by using this modal formula:
-> $$German_{Fleet} = Standardisation \land Installation_{Machinery} \rightarrow Acceleration..of..construction$$
+> $$\forall(German_{Fleet}) = Standardisation \land Installation_{Machinery} \rightarrow Acceleration..of..construction$$
 > the acceleration of the vessel build and construction had been accelerated upto 8 weeks per vessel.
 
 * Combinations & Enhancements: 
