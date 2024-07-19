@@ -46,6 +46,11 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 * Negative: 
 
 * Implicative:
+> From _"Aeroplanes and Dirigibles of War by F. A. Talbot"_: Upon the outbreak of hostilities Germany's dirigible fleet was in a condition of complete preparedness, was better organised, and better equipped than that of any of her rivals. At the same time it constituted more of a paper than a fighting array for reasons which I will explain later. But there was another point which had escaped general observation. Standardisation of parts and the installation of the desired machinery had accomplished one greatly desired end--the construction of new craft had been accelerated. Before the war an interesting experiment was carried out to determine how speedily a vessel could be built. The result proved that a dirigible of the most powerful type could be completed within eight weeks and forthwith the various constructional establishments were brought into line so as to maintain this rate of building.
+>
+> The former formulation displays an implicative screenplay by using this modal formula:
+> $$German_{Fleet} = Standardisation \land Installation_{Machinery} => Acceleration..of..construction$$
+> the acceleration of the vessel build and construction had been accelerated upto 8 weeks per vessel.
 
 * Combinations & Enhancements: 
 
