@@ -21,6 +21,10 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 
 ## Preemptive Examples:
 * Conjunctive: 
+> From _"Aeroplanes and Dirigibles of War by F. A. Talbot"_:
+> The Zeppelin workshops, harbouring facilities, and testing grounds at the latter point had undergone complete remodelling, while tools of the latest type had been provided to facilitate the rapid construction and overhaul of the monster Zeppelin dirigibles. Nothing had been left to chance; not an item was perfunctorily completed. The whole organisation was perfect, both in equipment and operation. Each of the above stations possessed provision for an aerial Dreadnought as well as one or more aerial cruisers, in addition to scouts or vedettes.
+>
+> In the preceding paragraph, the formulation is of an intricate inclusive type, or in other words, a complexity of the conjuctive formulations. It displays how the German aerial fleet is complete with regard to other rivals of the same level of complexity, as the completion results from this conjunctive formula: $Stations = Remodelling \land Zeppelin \land Equipment \land Operation \land Provisional_{Dreadnought}$
 
 * Disjunctive:
 > From _"Aeroplanes and Dirgibles of War by F. A. Talbot"_:
