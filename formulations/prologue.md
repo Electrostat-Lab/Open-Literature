@@ -5,7 +5,7 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 ## Table of content: 
 * Introductory formulations (e.g., `The following is ...` - `Essentially, ...`).
 * Connecting formulations.
-  - Conjunctive (e.g., `...and...` - `With this ..., and with ..., ...` - `...together with...` - `... ...altogether` - `...including...` - `not only [for] ... , but also ...` - `conclusive with ...` - `positively with ...`).
+  - Conjunctive (e.g., `...and...` - `With this ..., and with ..., ...` - `...together with...` - `... ...altogether` - `...including...` - `not only [for] ... , but also ...` - `conclusive with ...` - `positively with ...` - `inasmuch as ...`).
   - Disjunctive (e.g., `...or...` - `...instead of...` - `either...` - `excluding...` - `limited to...` - `only` - `merely` - `regardless of...`).
   - Negative (e.g., `not...` - `negative` - `neither of... ... ...` - `inconclusive of ...` - `inconclusively ...`).
   - Implicative (e.g., `Consequently,...` - `As a result of.../, ...` - `Sequentially, ...` - `Subsequently, ...` - `Eventually leading to ...` - `As an implication, ...` -  `As a consequence, ...`).
@@ -53,6 +53,16 @@ Essentially, there are a lot of types of sentence formulations. One example are 
 > the acceleration of the vessel build and construction had been accelerated upto 8 weeks per vessel.
 
 * Combinations & Enhancements: 
+> From _"Aeroplanes and Dirigibles of War by F. A. Talbot"_: On this remarkable journey another point was established which was of far-reaching significance. The vessel was equipped with wireless telegraphy and therewith she kept in touch with the earth below throughout the journey, dropping and
+picking up wireless stations as she progressed with complete facility. This was a distinct achievement, inasmuch as the vessel having been constructed especially for naval operations she would be able to keep in touch with the warships below, guiding them unerringly during their movement.
+>
+> The former formulation designates an intricate combinatoric modal logic, the addition of, not only the equipment of the wireless telegraphy facilities to the airships, but also the specialized construction for naval operations had enabled the airships to prove supremacy regarding navigation upon harbors. The following modal statement holds:
+> $$\forall(Aeroplanes) P(Navigation) \equiv Telegraphy_{Wireless} \land Construction_{Naval} \rightarrow Navigation_{Supremacy}$$
+
+> From the _"Aeroplanes and Dirigibles of War by F. A. Talbot"_: . The huge Zeppelin was manoeuvring over the North Sea within easy reach of Heligoland, when she was caught by one of those sudden storms peculiar to that stretch of salt water. In a moment she was stricken helpless; her motive power was overwhelmed by the blind forces of Nature. The wind caught her as it would a soap-bubble and hurled her into the sea, precipitating the most disastrous calamity in the annals of aeronautics, since not only was the ship lost, but fifteen of her crew of 22 officers and men were drowned.
+>
+> The preceding formulation states a combinatoric modal statement of conjunctive facts that had aligned in the form of active and latent failures precipitating the catastrophic event. This modal statement applies:
+> $$
 
 * Comparisons & Relational predicates: 
 
